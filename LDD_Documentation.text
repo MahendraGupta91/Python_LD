@@ -1,0 +1,9 @@
+
+
+
+
+1- Hindi_English_words_12Apr.josn this file have words till 54000 and after 60000.
+2: till 54000 tere are 170103 words.
+3 one copy till 54000 are stored in LD_dict_words_1May.json
+4: Hindi_eng_word_colletor.py is latest file to col;lect words from web.
+5:learndifferences_Dict_With_NewWindow1.py is latest project with GUI
